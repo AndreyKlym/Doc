@@ -7,14 +7,20 @@ c = 'abc'
 # print (a + b)
 
 # test = int(8/3)
-test = (8//3)
+# test = (8//3)
 # test = (10//3)
 # test = 4*6
 # test = 4-6
 # test = 1+2+3
-print (test)
+# print (test)
 
 # import this
+num1 = 2
+num2 = 3
+
+# num3 = num1 + num2
+num3 = num1 // num2
+print(num3)
 
 
 
