@@ -15,12 +15,36 @@ c = 'abc'
 # print (test)
 
 # import this
-num1 = 9
-num2 = 3
+# num1 = 10 - 6 * 3 - 5
+num1 = -5
+num2 = 12
 
-# num3 = num1 + num2
-num3 = num1 // num2
+# num1 = 200 ** 500
+# num2 = 3000
+
+# num1 = 67 ** 50
+# num2 = 45 ** 60
+
+num3 = num1 % num2
+# num1 -= 1
 print(num3)
+# print(10%3)
+
+txt1 = '12'
+txt2 = '+'
+txt3 = '5'
+txt4 = '17'
+
+print(txt1 + txt2 + txt3 + " = " + txt4)
+
+print (3 * txt1)
+
+txt5 = 'ab'
+txt6 = '123'
+
+# print (2 * txt5)
+print ((2 * txt5) + (2 * txt6))
+
 
 
 
